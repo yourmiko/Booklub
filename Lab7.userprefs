@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Lab7/Lab7.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab7/AppDelegate.cs">
+    <Files>
+      <File FileName="Lab7/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Lab7/LoginController.cs" Line="1" Column="1" />
+      <File FileName="Lab7/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
